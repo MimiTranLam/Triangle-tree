@@ -2,6 +2,8 @@
 async function startProgram() {
 
 async function drawTriangle(speed)
+async function drawTriangle(speed)
+async function drawTriangle(speed)
 
 	await roll(56,speed,3.8)
 	await stopRoll()
