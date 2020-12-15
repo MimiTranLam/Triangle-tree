@@ -7,7 +7,7 @@ async function drawTriangle(speed)
 	await stopRoll()
 	await roll(270,speed,5.5)
 	await stopRoll()
-	await roll(136,speed,3.8) 
+	await roll(136,speed,3.6) 
 	
 	await roll(0,50,0.5)
 	
