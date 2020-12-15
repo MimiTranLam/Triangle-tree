@@ -1,6 +1,8 @@
 # Triangle-tree
 async function startProgram() {
 
+setMainLed({r: 0, g: 255, b: 0})
+
 async function drawTriangle(speed)
 async function drawTriangle(speed)
 async function drawTriangle(speed)
